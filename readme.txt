@@ -6,4 +6,4 @@
 范围为
 而无法违法
 
-Creating a new branch is quick & simple
+Creating a new branch is quick AND simple.
