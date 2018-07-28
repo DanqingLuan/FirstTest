@@ -6,4 +6,4 @@
 范围为
 而无法违法
 
-再来一行到 dev 分支
+Creating a new branch is quick & simple
